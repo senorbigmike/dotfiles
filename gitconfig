@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = micah.woldu@habibiproject.com
+	name = micah woldu
